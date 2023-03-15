@@ -5,6 +5,7 @@ int i;
 int *ptr;
 int **dptr;
 i = 1234;
+printf("------------[변재윤] [2022041046]------------\n");
 printf("[checking values before ptr = &i] \n");
 printf("value of i == %d\n", i); // 변수 i의 값 출력
 printf("address of i == %p\n", &i);// 변수 i의 메모리 주소 출력
